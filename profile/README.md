@@ -1,4 +1,4 @@
-# This is Shark Tech
+# Welcome to the shark bay
 
 ## Esse trimestre: Pessoas, Processos, e Conhecimento
 
