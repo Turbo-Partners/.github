@@ -27,7 +27,7 @@
 
 #### Back
 - [Learn Node.js](https://nodejs.dev/en/learn/), ler tudo, estimada carga horaria: 20 horas
-- [express.js], toda a seção "getting started" fora os exemplos avançãdos, carga horaria: 6 horas
+- [express.js](https://expressjs.com/en/starter/installing.html), toda a seção "getting started" fora os exemplos avançãdos, carga horaria: 6 horas
 - [Backend com NestJS](https://www.udemy.com/course/nestjs-zero-to-hero/), carga horaria: 16 horas
 - [Framework serverless com Node.js e AWS](https://www.udemy.com/course/serverless-framework/), carga horaria: 12 horas
 - [Testing NestJS](https://docs.nestjs.com/fundamentals/testing#testing), carga horaria: 4 horas
