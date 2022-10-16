@@ -32,4 +32,14 @@
 - [Framework serverless com Node.js e AWS](https://www.udemy.com/course/serverless-framework/), carga horaria: 12 horas
 - [Testing NestJS](https://docs.nestjs.com/fundamentals/testing#testing), carga horaria: 4 horas
 
-#### Design
+#### UI/UX Design (Básico)
+- [Formação em Figma] (https://cursos.alura.com.br/formacao-figma) - Carga Horária: 40h (mas na real, umas 20h)
+- [Artigo: Heurísticas de Nielsen] (https://brasil.uxdesign.cc/10-heurísticas-de-nielsen-para-o-design-de-interface-58d782821840) 
+- [Adobe Photoshop] (https://cursos.alura.com.br/course/introducao-photoshop-conceitos-essenciais) - Carga Horaria: 10h
+- [Adobe Illustrator] (https://cursos.alura.com.br/course/vetor-illustrator) - Carga Horária: 10h
+- [Identidade Visual] (https://cursos.alura.com.br/course/design-grafico-identidade-visual) - Carga Horária: 10h
+
+#### UI/UX Design (Plus)
+- [Formação em Design System - Atomic Deisgn, Style Guide, Escala Modular] (https://cursos.alura.com.br/formacao-design-system) - Carga Horária: 40h
+- [Design Thinking] (https://cursos.alura.com.br/course/design-thinking-viabilizando-solucoes) - Carga Horária: 8h
+- [Design Patterns] (https://cursos.alura.com.br/course/usabilidade-interfaces-mobile) - Carga Horária: 5h
