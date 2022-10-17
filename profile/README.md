@@ -34,7 +34,7 @@
 
 #### UI/UX Design (Básico)
 - [Formação em Figma](https://cursos.alura.com.br/formacao-figma) - Carga Horária: 40h (mas na real, umas 20h)
-- [Artigo: Heurísticas de Nielsen] (https://brasil.uxdesign.cc/10-heurísticas-de-nielsen-para-o-design-de-interface-58d782821840) 
+- [Artigo: Heurísticas de Nielsen](https://brasil.uxdesign.cc/10-heurísticas-de-nielsen-para-o-design-de-interface-58d782821840) 
 - [Adobe Photoshop](https://cursos.alura.com.br/course/introducao-photoshop-conceitos-essenciais) - Carga Horaria: 10h
 - [Adobe Illustrator](https://cursos.alura.com.br/course/vetor-illustrator) - Carga Horária: 10h
 - [Identidade Visual](https://cursos.alura.com.br/course/design-grafico-identidade-visual) - Carga Horária: 10h
