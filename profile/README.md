@@ -22,7 +22,7 @@
 - [Desenvolvimento avancado de temas da Shopify](https://www.skillshare.com/pt/classes/Desenvolvimento-avancado-de-temas-da-Shopify/708093439?utm_campaign=video-embed-708093439&utm_source=Video&utm_medium=video-embed) carga horaria: 2 horas
 - [React](https://beta.reactjs.org/learn) Ler da introdução até "managing state", estimada carga horaria: 16 horas
 - [Graphql](https://graphql.org/learn/) Ler introdução, "queries & mutations", "schemas & types", estimada carga horaria: 12 horas
-- [Shopify Hydrogen: como criar uma ecommerce com o React](https://www.skillshare.com/pt/classes/Shopify-Hydrogen-como-criar-uma-loja-de-comercio-eletronico-sem-problemas-com-o-React/902985932?via=search-layout-grid), estimada carga horaria: 6 horas
+- [Shopify Hydrogen: como criar um ecommerce com o React](https://www.skillshare.com/pt/classes/Shopify-Hydrogen-como-criar-uma-loja-de-comercio-eletronico-sem-problemas-com-o-React/902985932?via=search-layout-grid), estimada carga horaria: 6 horas
 - [Testando seu código com Jest](https://jestjs.io/docs/asynchronous)Todo o módulo de introdução, estimada carga horaria: 4 horas
 - [Testando seu código com Cypress](https://learn.cypress.io/) Os 3 primeiros dos 4 módulos, estimada carga horaria: 4 horas
 
