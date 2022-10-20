@@ -8,24 +8,25 @@
 *SEMPRE CONSULTE A DOCUMENTAÇÃO DA TECNOLOGIA SE TIVER DUVIDAS* 
 
 #### Obrigatório para todos os dev
-- [Controle de versionamento com git](https://skills.github.com/), Modulos "First day on Github", "First week on Github", carga horaria: 4 horas
+- [Controle de versionamento com git](https://skills.github.com/) modulos "First day on Github", "First week on Github", carga horaria: 4 horas
 - [Gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) carga horaria: 1 hora
-- [Alura - HTML e JS](https://cursos.alura.com.br/course/logica-programacao-javascript-html) Curso completo, carga horaria: 16 horas
-- [Learning web app development](https://drive.google.com/file/d/1Vpda9qM3CZqjLIm9tNl0JhgO8VOd_x2L/view?usp=sharing) Capitulos 4 e 5, cara horaria: 8 horas
-- [Automate the boring stuff with Python](https://www.udemy.com/course/automate/) Todos os capitulos, carga horaria: 20 horas
+- [Alura - HTML e JS](https://cursos.alura.com.br/course/logica-programacao-javascript-html) curso completo, carga horaria: 16 horas
+- [Learning web app development](https://drive.google.com/file/d/1Vpda9qM3CZqjLIm9tNl0JhgO8VOd_x2L/view?usp=sharing) capitulos 4 e 5, carga horaria: 8 horas
+- [Automate the boring stuff with Python](https://www.udemy.com/course/automate/) todos os capitulos, carga horaria: 20 horas
 - [Ler sobre APIs rest](https://aws.amazon.com/what-is/restful-api/) carga horaria: 1 hora
-- [Estrutura de dados e algoritmos](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) Carga variavel, cumprir até pelo menos a seção de "linked lists"
-- [Test driven design](https://github.com/dwyl/learn-tdd) carga horaria: 1 hora
+- [Javascript e APIs](https://www.skillshare.com/pt/classes/Desenvolvimento-web-full-stack-para-iniciantes-parte-3-Javascript-e-APIs/1007610129?via=browse-trending-programming-foundations-layout-grid) carga horaria: 8 horas
+- [Test driven design 1](https://github.com/dwyl/learn-tdd), [Test driven design 2](https://www.codecademy.com/article/tdd-red-green-refactor) carga horaria: 1 hora
+- [Estrutura de dados e algoritmos](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) carga variavel, cumprir até pelo menos a seção de "linked lists"
 
 #### Front
-- [CSS](https://www.w3schools.com/css/), Estudar "CSS advanced", "CSS responsive", e "CSS grid", carga horaria, 8 horas
+- [CSS](https://www.w3schools.com/css/), estudar "CSS advanced", "CSS responsive", e "CSS grid", carga horaria, 8 horas
 - [Basicos do Shopify](https://www.skillshare.com/pt/classes/Conceitos-basicos-sobre-Shopify-para-desenvolvedores-da-Web-da-configuracao-da-loja-a-temas-personalizados/1070001866) carga horaria: 3 horas
 - [Desenvolvimento avancado de temas da Shopify](https://www.skillshare.com/pt/classes/Desenvolvimento-avancado-de-temas-da-Shopify/708093439?utm_campaign=video-embed-708093439&utm_source=Video&utm_medium=video-embed) carga horaria: 2 horas
-- [React](https://beta.reactjs.org/learn) Ler da introdução até "managing state", estimada carga horaria: 16 horas
-- [Graphql](https://graphql.org/learn/) Ler introdução, "queries & mutations", "schemas & types", estimada carga horaria: 12 horas
+- [React](https://beta.reactjs.org/learn) ler da introdução até "managing state", estimada carga horaria: 16 horas
+- [Graphql](https://graphql.org/learn/) ler introdução, "queries & mutations", "schemas & types", estimada carga horaria: 12 horas
 - [Shopify Hydrogen: como criar um ecommerce com o React](https://www.skillshare.com/pt/classes/Shopify-Hydrogen-como-criar-uma-loja-de-comercio-eletronico-sem-problemas-com-o-React/902985932?via=search-layout-grid), estimada carga horaria: 6 horas
-- [Testando seu código com Jest](https://jestjs.io/docs/asynchronous)Todo o módulo de introdução, estimada carga horaria: 4 horas
-- [Testando seu código com Cypress](https://learn.cypress.io/) Os 3 primeiros dos 4 módulos, estimada carga horaria: 4 horas
+- [Testando seu código com Jest](https://jestjs.io/docs/asynchronous) todo o módulo de introdução, estimada carga horaria: 4 horas
+- [Testando seu código com Cypress](https://learn.cypress.io/) os 3 primeiros dos 4 módulos, estimada carga horaria: 4 horas
 
 #### Back
 - [Learn Node.js](https://nodejs.dev/en/learn/), ler tudo, estimada carga horaria: 20 horas
