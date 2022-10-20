@@ -9,6 +9,7 @@
 
 #### Obrigatório para todos os dev
 - [Controle de versionamento com git](https://skills.github.com/), Modulos "First day on Github", "First week on Github", carga horaria: 4 horas
+- [Gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) carga horaria: 1 hora
 - [Alura - HTML e JS](https://cursos.alura.com.br/course/logica-programacao-javascript-html) Curso completo, carga horaria: 16 horas
 - [Learning web app development](https://drive.google.com/file/d/1Vpda9qM3CZqjLIm9tNl0JhgO8VOd_x2L/view?usp=sharing) Capitulos 4 e 5, cara horaria: 8 horas
 - [Automate the boring stuff with Python](https://www.udemy.com/course/automate/) Todos os capitulos, carga horaria: 20 horas
