@@ -20,6 +20,7 @@
 
 #### Front
 - [CSS](https://www.w3schools.com/css/), estudar "CSS advanced", "CSS responsive", e "CSS grid", carga horaria, 8 horas
+- [CSS BEM methodology](https://getbem.com/introduction/), [Naming using BEM](https://getbem.com/naming/), [Guia de CSS/BEM](https://desenvolvimentoparaweb.com/css/bem/)
 - [Basicos do Shopify](https://www.skillshare.com/pt/classes/Conceitos-basicos-sobre-Shopify-para-desenvolvedores-da-Web-da-configuracao-da-loja-a-temas-personalizados/1070001866) carga horaria: 3 horas
 - [Desenvolvimento avancado de temas da Shopify](https://www.skillshare.com/pt/classes/Desenvolvimento-avancado-de-temas-da-Shopify/708093439?utm_campaign=video-embed-708093439&utm_source=Video&utm_medium=video-embed) carga horaria: 2 horas
 - [React](https://beta.reactjs.org/learn) ler da introdução até "managing state", estimada carga horaria: 16 horas
